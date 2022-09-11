@@ -1,5 +1,8 @@
 ## Agile - Telecine
 
+## Deploy:
+https://agile-telecine.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
